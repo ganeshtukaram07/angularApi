@@ -1,0 +1,11 @@
+.box {
+  padding: 10px 10px;
+  background-color: azure;
+}
+
+.box h4 {
+  font-size: 16px;
+}
+.fntwt {
+  font-weight: bold;
+}
